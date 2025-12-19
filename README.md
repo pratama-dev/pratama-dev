@@ -45,9 +45,9 @@ I am an **Informatics Student at UNNES** and an aspiring **Data Scientist**. My 
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/satrio-budi-pratama-08a050379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Satrio Budi Pratama" height="30" width="40" /></a>
-  <a href="https://instagram.com/itst4ma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satrio_tama" height="30" width="40" /></a>
-  <a href="mailto:satriobudipratama5@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.svg" alt="Email" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/satrio-budi-pratama-08a050379" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Satrio Budi Pratama" height="28" /></a>
+  <a href="https://instagram.com/itst4ma_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="satrio_budi_pratama" height="28" /></a>
+  <a href="mailto:satriobudipratama5@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28" /></a>
 </p>
 
 ---
