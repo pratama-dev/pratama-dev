@@ -31,8 +31,8 @@ I am an **Informatics Student at UNNES** and an aspiring **Data Scientist**. My 
 ---
 
 ## 📂 Highlight Project
-### [Manajemen Kalori Tubuh]
-*Sebuah aplikasi/script yang dirancang untuk membantu pengguna melacak dan mengelola asupan kalori harian secara efisien menggunakan logika pemrograman yang bersih.*
+### [🍴 Manajemen Kalori Tubuh (C++)](https://github.com/pratama-dev/manajemen-kalori-cpp)
+*Aplikasi CLI berbasis C++ untuk menghitung BMR dan manajemen kalori harian. Menunjukkan kemampuan logika pemrograman dan pengolahan data.*
 
 ---
 
