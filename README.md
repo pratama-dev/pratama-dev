@@ -92,6 +92,9 @@ Built with **Python and Streamlit**, the application uses a trained regression m
 </p>
 
 </div>
+
+---
+
 ## Current Direction
 
 I am continuously developing my skills in:
